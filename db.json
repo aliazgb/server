@@ -2389,6 +2389,24 @@
     "title": "Advantages of our Hotel",
     "items": ["Pricing Overview", "Flexible Data", "High Volume Data", "Coverage Map"]
   }
+],
+"socialIcons":[
+  {
+    "Icon": "FaInstagram",
+    "hoverColor": "hover:text-pink-500"
+  },
+  {
+    "Icon": "FiTwitter",
+    "hoverColor": "hover:text-blue-400"
+  },
+  {
+    "Icon": "BiLogoFacebook",
+    "hoverColor": "hover:text-blue-600"
+  },
+  {
+    "Icon": "SlSocialYoutube",
+    "hoverColor": "hover:text-red-500"
+  }
 ]
 
 }
