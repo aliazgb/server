@@ -1,4 +1,5 @@
 {
+  
   "hotels": [
     {
       "id": "6017649",
@@ -2375,4 +2376,19 @@
       "id": 134
     }
   ]
+  "footer":[
+  {
+    "title": "Company",
+    "items": ["About Us", "Our Services", "Privacy Policy", "Affiliate Program"]
+  },
+  {
+    "title": "Get Help",
+    "items": ["FAQ", "Shipping", "Returns", "Order Status"]
+  },
+  {
+    "title": "Advantages of our Hotel",
+    "items": ["Pricing Overview", "Flexible Data", "High Volume Data", "Coverage Map"]
+  }
+]
+
 }
