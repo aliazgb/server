@@ -36,6 +36,7 @@
         "url": "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/airbnb-listings/files/1333549eac1ff1f91b4443e0dc910c3a"
       },
       "xl_picture_url": "https://a0.muscache.com/im/pictures/74942550/415cd752_original.jpg?aki_policy=x_large",
+      "extra_picture":["https://biaupload.com/do.php?imgf=org-1586b6d444f11.jpg","https://biaupload.com/do.php?imgf=org-2800b451c4db1.jpg"]
       "host_id": "1195000",
       "host_url": "https://www.airbnb.com/users/show/1195000",
       "host_name": "Linda",
