@@ -1294,6 +1294,47 @@
       ],
       "bookmarks":[]
     }
+  ],
+  "bookmarks": [
+    {
+      "cityName": "Anyksciai",
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "latitude": "55.66833886965089",
+      "longitude": "25.469769409708814",
+      "host_location": "Anyksciai Lithuania",
+      "id": 1
+    }],
+  "footer":[
+    {
+      "title": "Company",
+      "items": ["About Us", "Our Services", "Privacy Policy", "Affiliate Program"]
+    },
+    {
+      "title": "Get Help",
+      "items": ["FAQ", "Shipping", "Returns", "Order Status"]
+    },
+    {
+      "title": "Advantages of our Hotel",
+      "items": ["Pricing Overview", "Flexible Data", "High Volume Data", "Coverage Map"]
+    }
+  ],
+  "socialIcons":[
+    {
+      "Icon": "FaInstagram",
+      "hoverColor": "hover:text-pink-500"
+    },
+    {
+      "Icon": "FiTwitter",
+      "hoverColor": "hover:text-blue-400"
+    },
+    {
+      "Icon": "BiLogoFacebook",
+      "hoverColor": "hover:text-blue-600"
+    },
+    {
+      "Icon": "SlSocialYoutube",
+      "hoverColor": "hover:text-red-500"
+    }
   ]
 }
-
